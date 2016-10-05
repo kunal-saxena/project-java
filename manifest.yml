@@ -6,3 +6,5 @@ applications:
 - name: Kunal-java
   host: Kunal-java
   domain: kunal.domain.com.sitikantha.stacktest.io
+  mem: 512M
+  path: build/hello-world-java-1.0
